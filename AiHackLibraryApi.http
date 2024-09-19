@@ -1,0 +1,6 @@
+@AiHackLibraryApi_HostAddress = http://localhost:5253
+
+GET {{AiHackLibraryApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
